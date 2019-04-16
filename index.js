@@ -1,6 +1,5 @@
 function SwitchButton()
 {
-    this.status = status;
     this.switchOn = function ()
     {
         this.status = true;
